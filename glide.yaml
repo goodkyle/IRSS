@@ -1,7 +1,4 @@
-package: .
+package: github.com/goodkyle/irss
 import:
-- package: github.com/kataras/iris
-  version: v10.6.6
 
-- package: github.com/xormplus/xorm
-  version: v0.7.0.0504
+- package:

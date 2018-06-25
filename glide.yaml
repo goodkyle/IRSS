@@ -1,4 +1,5 @@
 package: github.com/goodkyle/irss
 import:
 
-- package:
+- package: github.com/kataras/iris
+  version: v10.6.6
